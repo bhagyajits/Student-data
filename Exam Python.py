@@ -1,4 +1,5 @@
-# Write a python program to reverse a string with out using inbuilt function ?
+#my name is Bhagyajit swain
+# Write a python program to reverse a string without using inbuilt function ?
 
 '''def rev_string(input_string):
     rev_string = ""
